@@ -253,18 +253,6 @@ Security practices used in this project:
 
 ---
 
-## Development Tools
-
-This project was built with the assistance of the following AI development tools, as permitted by the implementation notes:
-
-**GitHub Copilot** was used as an inline coding assistant within the editor. It accelerated development through real-time code suggestions and context-aware completions — particularly for Playwright scraper setup, PDF parsing logic, and Next.js API route scaffolding.
-
-**ChatGPT** was used for higher-level reasoning and planning throughout the project: iterating on prompts for document classification, troubleshooting name normalization edge cases, planning the Gmail App Password flow, and drafting documentation structure.
-
-Both tools served the role described in the implementation notes — agentic/dev tooling to accelerate development while keeping full architectural decisions and code review with the developer.
-
----
-
 ## Assumptions
 
 - Jail roster websites remain publicly accessible during use
